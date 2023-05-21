@@ -25,3 +25,12 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+html, body{
+  background-color: white;
+}
+
+.post-line{
+  background-color: rgba(0,0,0,0.1);
+  border-radius: 10px;
+}
