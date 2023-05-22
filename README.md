@@ -16,13 +16,13 @@ npm run dev
 
 A JSON-Server shall start on [localhost:4000](http://localhost:4000) concurrently.
 
-Run 
+If json-server did not start, run: 
 
 ```bash
 json-server --watch db.json --port 4000
 ```
 
-If json-server did not start.
+
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the blogposts.
